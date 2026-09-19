@@ -1,0 +1,1104 @@
+[
+  {
+    "plot_id": "NN-2607-114",
+    "khasra_detected": "214/2",
+    "baseline_polygon": [
+      [
+        0.0,
+        0
+      ],
+      [
+        10.29,
+        0
+      ],
+      [
+        10.29,
+        7.63
+      ],
+      [
+        0.0,
+        7.63
+      ],
+      [
+        0.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        0.15,
+        0.05
+      ],
+      [
+        10.44,
+        0.05
+      ],
+      [
+        10.44,
+        7.68
+      ],
+      [
+        0.15,
+        7.68
+      ],
+      [
+        0.15,
+        0.05
+      ]
+    ],
+    "seg_confidence_baseline": 0.82,
+    "seg_confidence_current": 0.82,
+    "registration_residual_m": 0.65,
+    "temporal_passes": 1,
+    "ward_id": "KLR-43",
+    "owner_name": "Ramnivas Patel",
+    "address": "H.No. 12-B, Metro Vihar Colony, Kolar Road",
+    "detected_on": "2026-07-03",
+    "workflow_status": "pending",
+    "resolved_on": null
+  },
+  {
+    "plot_id": "NN-2607-089",
+    "khasra_detected": "76/1/A",
+    "baseline_polygon": [
+      [
+        500.0,
+        0
+      ],
+      [
+        511.14,
+        0
+      ],
+      [
+        511.14,
+        8.26
+      ],
+      [
+        500.0,
+        8.26
+      ],
+      [
+        500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        500.0,
+        0
+      ],
+      [
+        515.73,
+        0
+      ],
+      [
+        515.73,
+        8.26
+      ],
+      [
+        500.0,
+        8.26
+      ],
+      [
+        500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.84,
+    "seg_confidence_current": 0.89,
+    "registration_residual_m": 0.41,
+    "temporal_passes": 2,
+    "ward_id": "AYN-51",
+    "owner_name": "Nasira Khan",
+    "address": "9/3, Nehru Colony Lane, Ayodhya Nagar",
+    "detected_on": "2026-07-09",
+    "workflow_status": "pending",
+    "resolved_on": null
+  },
+  {
+    "plot_id": "NN-2607-156",
+    "khasra_detected": "221/1",
+    "baseline_polygon": [
+      [
+        1000.0,
+        0
+      ],
+      [
+        1014.0,
+        0
+      ],
+      [
+        1014.0,
+        10.37
+      ],
+      [
+        1000.0,
+        10.37
+      ],
+      [
+        1000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        1000.0,
+        0
+      ],
+      [
+        1018.54,
+        0
+      ],
+      [
+        1018.54,
+        10.37
+      ],
+      [
+        1000.0,
+        10.37
+      ],
+      [
+        1000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.88,
+    "seg_confidence_current": 0.9,
+    "registration_residual_m": 0.37,
+    "temporal_passes": 3,
+    "ward_id": "KLR-43",
+    "owner_name": "Devendra Chouksey",
+    "address": "H.No. 27, Vrindavan Nagar Extension, Kolar Road",
+    "detected_on": "2026-07-14",
+    "workflow_status": "confirmed",
+    "resolved_on": "2026-09-15"
+  },
+  {
+    "plot_id": "NN-2607-203",
+    "khasra_detected": "58/4",
+    "baseline_polygon": [
+      [
+        1500.0,
+        0
+      ],
+      [
+        1509.35,
+        0
+      ],
+      [
+        1509.35,
+        6.93
+      ],
+      [
+        1500.0,
+        6.93
+      ],
+      [
+        1500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        1500.0,
+        0
+      ],
+      [
+        1517.53,
+        0
+      ],
+      [
+        1517.53,
+        6.93
+      ],
+      [
+        1500.0,
+        6.93
+      ],
+      [
+        1500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.85,
+    "seg_confidence_current": 0.83,
+    "registration_residual_m": 0.55,
+    "temporal_passes": 2,
+    "ward_id": "BGS-38",
+    "owner_name": "Sunita Rathore",
+    "address": "Plot 41, Bagsevania Main Road",
+    "detected_on": "2026-07-18",
+    "workflow_status": "pending",
+    "resolved_on": null
+  },
+  {
+    "plot_id": "NN-2607-231",
+    "khasra_detected": "13/2/B",
+    "baseline_polygon": [
+      [
+        2000.0,
+        0
+      ],
+      [
+        2015.96,
+        0
+      ],
+      [
+        2015.96,
+        11.82
+      ],
+      [
+        2000.0,
+        11.82
+      ],
+      [
+        2000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        2000.0,
+        0
+      ],
+      [
+        2021.05,
+        0
+      ],
+      [
+        2021.05,
+        11.82
+      ],
+      [
+        2000.0,
+        11.82
+      ],
+      [
+        2000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.94,
+    "seg_confidence_current": 0.95,
+    "registration_residual_m": 0.29,
+    "temporal_passes": 3,
+    "ward_id": "CNB-29",
+    "owner_name": "Abdul Sattar Qureshi",
+    "address": "H.No. 63, Chuna Bhatti",
+    "detected_on": "2026-07-22",
+    "workflow_status": "confirmed",
+    "resolved_on": "2026-08-30"
+  },
+  {
+    "plot_id": "NN-2608-047",
+    "khasra_detected": "198/3",
+    "baseline_polygon": [
+      [
+        2500.0,
+        0
+      ],
+      [
+        2509.81,
+        0
+      ],
+      [
+        2509.81,
+        7.27
+      ],
+      [
+        2500.0,
+        7.27
+      ],
+      [
+        2500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        2500.0,
+        0
+      ],
+      [
+        2518.33,
+        0
+      ],
+      [
+        2518.33,
+        7.27
+      ],
+      [
+        2500.0,
+        7.27
+      ],
+      [
+        2500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.81,
+    "seg_confidence_current": 0.83,
+    "registration_residual_m": 0.86,
+    "temporal_passes": 1,
+    "ward_id": "KLR-43",
+    "owner_name": "Manoj Vishwakarma",
+    "address": "H.No. 5, Gautam Nagar, Kolar Road",
+    "detected_on": "2026-07-27",
+    "workflow_status": "pending",
+    "resolved_on": null
+  },
+  {
+    "plot_id": "NN-2608-072",
+    "khasra_detected": "BAD-9-1",
+    "baseline_polygon": [
+      [
+        3000.0,
+        0
+      ],
+      [
+        3012.21,
+        0
+      ],
+      [
+        3012.21,
+        9.04
+      ],
+      [
+        3000.0,
+        9.04
+      ],
+      [
+        3000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        3000.0,
+        0
+      ],
+      [
+        3020.55,
+        0
+      ],
+      [
+        3020.55,
+        9.04
+      ],
+      [
+        3000.0,
+        9.04
+      ],
+      [
+        3000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.87,
+    "seg_confidence_current": 0.92,
+    "registration_residual_m": 0.36,
+    "temporal_passes": 2,
+    "ward_id": "BGM-60",
+    "owner_name": "Kavita Dubey",
+    "address": "Sector 4, Bagmugaliya Extension",
+    "detected_on": "2026-08-02",
+    "workflow_status": "pending",
+    "resolved_on": null
+  },
+  {
+    "plot_id": "NN-2608-098",
+    "khasra_detected": "32/2/C",
+    "baseline_polygon": [
+      [
+        3500.0,
+        0
+      ],
+      [
+        3511.43,
+        0
+      ],
+      [
+        3511.43,
+        8.46
+      ],
+      [
+        3500.0,
+        8.46
+      ],
+      [
+        3500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        3500.0,
+        0
+      ],
+      [
+        3521.15,
+        0
+      ],
+      [
+        3521.15,
+        8.46
+      ],
+      [
+        3500.0,
+        8.46
+      ],
+      [
+        3500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.84,
+    "seg_confidence_current": 0.87,
+    "registration_residual_m": 0.45,
+    "temporal_passes": 2,
+    "ward_id": "SHP-17",
+    "owner_name": "Iqbal Ahmed Siddiqui",
+    "address": "E-14, Shahpura",
+    "detected_on": "2026-08-05",
+    "workflow_status": "dismissed",
+    "resolved_on": "2026-09-12"
+  },
+  {
+    "plot_id": "NN-2608-121",
+    "khasra_detected": "207/5",
+    "baseline_polygon": [
+      [
+        4000.0,
+        0
+      ],
+      [
+        4013.49,
+        0
+      ],
+      [
+        4013.49,
+        10.0
+      ],
+      [
+        4000.0,
+        10.0
+      ],
+      [
+        4000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        4000.0,
+        0
+      ],
+      [
+        4022.34,
+        0
+      ],
+      [
+        4022.34,
+        10.0
+      ],
+      [
+        4000.0,
+        10.0
+      ],
+      [
+        4000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.87,
+    "seg_confidence_current": 0.94,
+    "registration_residual_m": 0.4,
+    "temporal_passes": 3,
+    "ward_id": "KLR-43",
+    "owner_name": "Rajni Malviya",
+    "address": "H.No. 33, Radha Krishna Colony, Kolar Road",
+    "detected_on": "2026-08-09",
+    "workflow_status": "confirmed",
+    "resolved_on": "2026-09-16"
+  },
+  {
+    "plot_id": "NN-2608-145",
+    "khasra_detected": "81/3",
+    "baseline_polygon": [
+      [
+        4500.0,
+        0
+      ],
+      [
+        4516.65,
+        0
+      ],
+      [
+        4516.65,
+        12.33
+      ],
+      [
+        4500.0,
+        12.33
+      ],
+      [
+        4500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        4500.0,
+        0
+      ],
+      [
+        4526.15,
+        0
+      ],
+      [
+        4526.15,
+        12.33
+      ],
+      [
+        4500.0,
+        12.33
+      ],
+      [
+        4500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.92,
+    "seg_confidence_current": 0.94,
+    "registration_residual_m": 0.08,
+    "temporal_passes": 3,
+    "ward_id": "AYN-51",
+    "owner_name": "Harpreet Singh Sodhi",
+    "address": "14/2, Ambedkar Marg, Ayodhya Nagar",
+    "detected_on": "2026-08-12",
+    "workflow_status": "confirmed",
+    "resolved_on": "2026-08-28"
+  },
+  {
+    "plot_id": "NN-2608-167",
+    "khasra_detected": "62/1",
+    "baseline_polygon": [
+      [
+        5000.0,
+        0
+      ],
+      [
+        5008.86,
+        0
+      ],
+      [
+        5008.86,
+        6.57
+      ],
+      [
+        5000.0,
+        6.57
+      ],
+      [
+        5000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        5000.0,
+        0
+      ],
+      [
+        5029.81,
+        0
+      ],
+      [
+        5029.81,
+        6.57
+      ],
+      [
+        5000.0,
+        6.57
+      ],
+      [
+        5000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.8,
+    "seg_confidence_current": 0.81,
+    "registration_residual_m": 0.84,
+    "temporal_passes": 1,
+    "ward_id": "BGS-38",
+    "owner_name": "Yogesh Sahu",
+    "address": "Plot 19, Bagsevania Main Road",
+    "detected_on": "2026-08-15",
+    "workflow_status": "pending",
+    "resolved_on": null
+  },
+  {
+    "plot_id": "NN-2608-189",
+    "khasra_detected": "17/2",
+    "baseline_polygon": [
+      [
+        5500.0,
+        0
+      ],
+      [
+        5512.87,
+        0
+      ],
+      [
+        5512.87,
+        9.53
+      ],
+      [
+        5500.0,
+        9.53
+      ],
+      [
+        5500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        5500.0,
+        0
+      ],
+      [
+        5529.34,
+        0
+      ],
+      [
+        5529.34,
+        9.53
+      ],
+      [
+        5500.0,
+        9.53
+      ],
+      [
+        5500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.87,
+    "seg_confidence_current": 0.86,
+    "registration_residual_m": 0.6,
+    "temporal_passes": 2,
+    "ward_id": "CNB-29",
+    "owner_name": "Farha Sultana",
+    "address": "H.No. 22, Chuna Bhatti",
+    "detected_on": "2026-08-19",
+    "workflow_status": "dismissed",
+    "resolved_on": "2026-08-25"
+  },
+  {
+    "plot_id": "NN-2608-212",
+    "khasra_detected": "230/1/A",
+    "baseline_polygon": [
+      [
+        6000.0,
+        0
+      ],
+      [
+        6010.89,
+        0
+      ],
+      [
+        6010.89,
+        8.07
+      ],
+      [
+        6000.0,
+        8.07
+      ],
+      [
+        6000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        6000.0,
+        0
+      ],
+      [
+        6027.79,
+        0
+      ],
+      [
+        6027.79,
+        8.07
+      ],
+      [
+        6000.0,
+        8.07
+      ],
+      [
+        6000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.83,
+    "seg_confidence_current": 0.87,
+    "registration_residual_m": 0.7,
+    "temporal_passes": 2,
+    "ward_id": "KLR-43",
+    "owner_name": "Om Prakash Tiwari",
+    "address": "H.No. 8, Shivalik Enclave, Kolar Road",
+    "detected_on": "2026-08-22",
+    "workflow_status": "pending",
+    "resolved_on": null
+  },
+  {
+    "plot_id": "NN-2608-234",
+    "khasra_detected": "11/4",
+    "baseline_polygon": [
+      [
+        6500.0,
+        0
+      ],
+      [
+        6514.67,
+        0
+      ],
+      [
+        6514.67,
+        10.87
+      ],
+      [
+        6500.0,
+        10.87
+      ],
+      [
+        6500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        6500.0,
+        0
+      ],
+      [
+        6528.55,
+        0
+      ],
+      [
+        6528.55,
+        10.87
+      ],
+      [
+        6500.0,
+        10.87
+      ],
+      [
+        6500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.91,
+    "seg_confidence_current": 0.91,
+    "registration_residual_m": 0.34,
+    "temporal_passes": 2,
+    "ward_id": "BGM-60",
+    "owner_name": "Meena Kushwaha",
+    "address": "Sector 7, Bagmugaliya Extension",
+    "detected_on": "2026-08-26",
+    "workflow_status": "pending",
+    "resolved_on": null
+  },
+  {
+    "plot_id": "NN-2608-256",
+    "khasra_detected": "40/1",
+    "baseline_polygon": [
+      [
+        7000.0,
+        0
+      ],
+      [
+        7015.45,
+        0
+      ],
+      [
+        7015.45,
+        11.44
+      ],
+      [
+        7000.0,
+        11.44
+      ],
+      [
+        7000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        7000.0,
+        0
+      ],
+      [
+        7032.56,
+        0
+      ],
+      [
+        7032.56,
+        11.44
+      ],
+      [
+        7000.0,
+        11.44
+      ],
+      [
+        7000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.9,
+    "seg_confidence_current": 0.91,
+    "registration_residual_m": 0.27,
+    "temporal_passes": 3,
+    "ward_id": "SHP-17",
+    "owner_name": "Sanjay Namdev",
+    "address": "E-27, Shahpura",
+    "detected_on": "2026-08-29",
+    "workflow_status": "confirmed",
+    "resolved_on": "2026-09-10"
+  },
+  {
+    "plot_id": "NN-2609-021",
+    "khasra_detected": "218/2",
+    "baseline_polygon": [
+      [
+        7500.0,
+        0
+      ],
+      [
+        7509.61,
+        0
+      ],
+      [
+        7509.61,
+        7.12
+      ],
+      [
+        7500.0,
+        7.12
+      ],
+      [
+        7500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        7500.0,
+        0
+      ],
+      [
+        7539.84,
+        0
+      ],
+      [
+        7539.84,
+        7.12
+      ],
+      [
+        7500.0,
+        7.12
+      ],
+      [
+        7500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.81,
+    "seg_confidence_current": 0.85,
+    "registration_residual_m": 0.8,
+    "temporal_passes": 1,
+    "ward_id": "KLR-43",
+    "owner_name": "Zeba Parveen",
+    "address": "H.No. 41, Vrindavan Nagar Extension, Kolar Road",
+    "detected_on": "2026-09-02",
+    "workflow_status": "pending",
+    "resolved_on": null
+  },
+  {
+    "plot_id": "NN-2609-045",
+    "khasra_detected": "BAD-89-2-B",
+    "baseline_polygon": [
+      [
+        8000.0,
+        0
+      ],
+      [
+        8013.8,
+        0
+      ],
+      [
+        8013.8,
+        10.22
+      ],
+      [
+        8000.0,
+        10.22
+      ],
+      [
+        8000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        8000.0,
+        0
+      ],
+      [
+        8036.15,
+        0
+      ],
+      [
+        8036.15,
+        10.22
+      ],
+      [
+        8000.0,
+        10.22
+      ],
+      [
+        8000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.88,
+    "seg_confidence_current": 0.87,
+    "registration_residual_m": 0.52,
+    "temporal_passes": 2,
+    "ward_id": "AYN-51",
+    "owner_name": "Ashok Raikwar",
+    "address": "21/5, Nehru Colony Lane, Ayodhya Nagar",
+    "detected_on": "2026-09-05",
+    "workflow_status": "dismissed",
+    "resolved_on": "2026-09-11"
+  },
+  {
+    "plot_id": "NN-2609-067",
+    "khasra_detected": "70/1",
+    "baseline_polygon": [
+      [
+        8500.0,
+        0
+      ],
+      [
+        8516.37,
+        0
+      ],
+      [
+        8516.37,
+        12.13
+      ],
+      [
+        8500.0,
+        12.13
+      ],
+      [
+        8500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        8500.0,
+        0
+      ],
+      [
+        8534.53,
+        0
+      ],
+      [
+        8534.53,
+        12.13
+      ],
+      [
+        8500.0,
+        12.13
+      ],
+      [
+        8500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.91,
+    "seg_confidence_current": 0.94,
+    "registration_residual_m": 0.07,
+    "temporal_passes": 3,
+    "ward_id": "BGS-38",
+    "owner_name": "Pushpa Bai Ahirwar",
+    "address": "Plot 55, Bagsevania Main Road",
+    "detected_on": "2026-09-09",
+    "workflow_status": "confirmed",
+    "resolved_on": "2026-09-16"
+  },
+  {
+    "plot_id": "NN-2609-088",
+    "khasra_detected": "225/3",
+    "baseline_polygon": [
+      [
+        9000.0,
+        0
+      ],
+      [
+        9011.83,
+        0
+      ],
+      [
+        9011.83,
+        8.76
+      ],
+      [
+        9000.0,
+        8.76
+      ],
+      [
+        9000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        9000.0,
+        0
+      ],
+      [
+        9040.68,
+        0
+      ],
+      [
+        9040.68,
+        8.76
+      ],
+      [
+        9000.0,
+        8.76
+      ],
+      [
+        9000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.84,
+    "seg_confidence_current": 0.88,
+    "registration_residual_m": 0.67,
+    "temporal_passes": 2,
+    "ward_id": "KLR-43",
+    "owner_name": "Naeem Khan",
+    "address": "H.No. 16, Gautam Nagar, Kolar Road",
+    "detected_on": "2026-09-14",
+    "workflow_status": "pending",
+    "resolved_on": null
+  }
+]

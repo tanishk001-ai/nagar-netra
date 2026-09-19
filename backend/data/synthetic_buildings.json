@@ -1,0 +1,1274 @@
+[
+  {
+    "plot_id": "SYN-001",
+    "khasra_detected": "101/1",
+    "baseline_polygon": [
+      [
+        0.0,
+        0
+      ],
+      [
+        9.4,
+        0
+      ],
+      [
+        9.4,
+        7.3
+      ],
+      [
+        0.0,
+        7.3
+      ],
+      [
+        0.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        0.0,
+        0
+      ],
+      [
+        14.49856699614471,
+        0
+      ],
+      [
+        14.49856699614471,
+        7.3
+      ],
+      [
+        0.0,
+        7.3
+      ],
+      [
+        0.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.78,
+    "seg_confidence_current": 0.84,
+    "registration_residual_m": 0.28,
+    "temporal_passes": 1,
+    "true_change": true
+  },
+  {
+    "plot_id": "SYN-002",
+    "khasra_detected": "102/1",
+    "baseline_polygon": [
+      [
+        500.0,
+        0
+      ],
+      [
+        509.8,
+        0
+      ],
+      [
+        509.8,
+        7.6
+      ],
+      [
+        500.0,
+        7.6
+      ],
+      [
+        500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        500.0,
+        0
+      ],
+      [
+        514.9917487185572,
+        0
+      ],
+      [
+        514.9917487185572,
+        7.6
+      ],
+      [
+        500.0,
+        7.6
+      ],
+      [
+        500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.91,
+    "seg_confidence_current": 0.81,
+    "registration_residual_m": 0.44,
+    "temporal_passes": 1,
+    "true_change": true
+  },
+  {
+    "plot_id": "SYN-003",
+    "khasra_detected": "103/1",
+    "baseline_polygon": [
+      [
+        1000.0,
+        0
+      ],
+      [
+        1010.2,
+        0
+      ],
+      [
+        1010.2,
+        7.9
+      ],
+      [
+        1000.0,
+        7.9
+      ],
+      [
+        1000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        1000.0,
+        0
+      ],
+      [
+        1013.934238099654,
+        0
+      ],
+      [
+        1013.934238099654,
+        7.9
+      ],
+      [
+        1000.0,
+        7.9
+      ],
+      [
+        1000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.81,
+    "seg_confidence_current": 0.89,
+    "registration_residual_m": 0.55,
+    "temporal_passes": 3,
+    "true_change": true
+  },
+  {
+    "plot_id": "SYN-004",
+    "khasra_detected": "104/1",
+    "baseline_polygon": [
+      [
+        1500.0,
+        0
+      ],
+      [
+        1510.6,
+        0
+      ],
+      [
+        1510.6,
+        8.2
+      ],
+      [
+        1500.0,
+        8.2
+      ],
+      [
+        1500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        1500.0,
+        0
+      ],
+      [
+        1514.6511015551018,
+        0
+      ],
+      [
+        1514.6511015551018,
+        8.2
+      ],
+      [
+        1500.0,
+        8.2
+      ],
+      [
+        1500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.87,
+    "seg_confidence_current": 0.92,
+    "registration_residual_m": 0.11,
+    "temporal_passes": 2,
+    "true_change": true
+  },
+  {
+    "plot_id": "SYN-005",
+    "khasra_detected": "105/1",
+    "baseline_polygon": [
+      [
+        2000.0,
+        0
+      ],
+      [
+        2011.0,
+        0
+      ],
+      [
+        2011.0,
+        8.5
+      ],
+      [
+        2000.0,
+        8.5
+      ],
+      [
+        2000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        2000.0,
+        0
+      ],
+      [
+        2016.2453484874707,
+        0
+      ],
+      [
+        2016.2453484874707,
+        8.5
+      ],
+      [
+        2000.0,
+        8.5
+      ],
+      [
+        2000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.83,
+    "seg_confidence_current": 0.82,
+    "registration_residual_m": 0.87,
+    "temporal_passes": 2,
+    "true_change": true
+  },
+  {
+    "plot_id": "SYN-006",
+    "khasra_detected": "106/1",
+    "baseline_polygon": [
+      [
+        2500.0,
+        0
+      ],
+      [
+        2511.4,
+        0
+      ],
+      [
+        2511.4,
+        8.8
+      ],
+      [
+        2500.0,
+        8.8
+      ],
+      [
+        2500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        2500.0,
+        0
+      ],
+      [
+        2515.1555256912998,
+        0
+      ],
+      [
+        2515.1555256912998,
+        8.8
+      ],
+      [
+        2500.0,
+        8.8
+      ],
+      [
+        2500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.84,
+    "seg_confidence_current": 0.85,
+    "registration_residual_m": 0.38,
+    "temporal_passes": 2,
+    "true_change": true
+  },
+  {
+    "plot_id": "SYN-007",
+    "khasra_detected": "BAD-901",
+    "baseline_polygon": [
+      [
+        3000.0,
+        0
+      ],
+      [
+        3010.5,
+        0
+      ],
+      [
+        3010.5,
+        8.2
+      ],
+      [
+        3000.0,
+        8.2
+      ],
+      [
+        3000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        3000.0,
+        0
+      ],
+      [
+        3016.114256546549,
+        0
+      ],
+      [
+        3016.114256546549,
+        8.2
+      ],
+      [
+        3000.0,
+        8.2
+      ],
+      [
+        3000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.86,
+    "seg_confidence_current": 0.85,
+    "registration_residual_m": 1.08,
+    "temporal_passes": 2,
+    "true_change": true
+  },
+  {
+    "plot_id": "SYN-008",
+    "khasra_detected": "BAD-902",
+    "baseline_polygon": [
+      [
+        3500.0,
+        0
+      ],
+      [
+        3511.0,
+        0
+      ],
+      [
+        3511.0,
+        8.4
+      ],
+      [
+        3500.0,
+        8.4
+      ],
+      [
+        3500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        3500.0,
+        0
+      ],
+      [
+        3515.157600396157,
+        0
+      ],
+      [
+        3515.157600396157,
+        8.4
+      ],
+      [
+        3500.0,
+        8.4
+      ],
+      [
+        3500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.79,
+    "seg_confidence_current": 0.86,
+    "registration_residual_m": 1.0,
+    "temporal_passes": 2,
+    "true_change": true
+  },
+  {
+    "plot_id": "SYN-009",
+    "khasra_detected": "BAD-903",
+    "baseline_polygon": [
+      [
+        4000.0,
+        0
+      ],
+      [
+        4011.5,
+        0
+      ],
+      [
+        4011.5,
+        8.6
+      ],
+      [
+        4000.0,
+        8.6
+      ],
+      [
+        4000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        4000.0,
+        0
+      ],
+      [
+        4016.6547042905136,
+        0
+      ],
+      [
+        4016.6547042905136,
+        8.6
+      ],
+      [
+        4000.0,
+        8.6
+      ],
+      [
+        4000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.86,
+    "seg_confidence_current": 0.78,
+    "registration_residual_m": 0.41,
+    "temporal_passes": 2,
+    "true_change": true
+  },
+  {
+    "plot_id": "SYN-010",
+    "khasra_detected": "BAD-904",
+    "baseline_polygon": [
+      [
+        4500.0,
+        0
+      ],
+      [
+        4512.0,
+        0
+      ],
+      [
+        4512.0,
+        8.8
+      ],
+      [
+        4500.0,
+        8.8
+      ],
+      [
+        4500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        4500.0,
+        0
+      ],
+      [
+        4517.970443041321,
+        0
+      ],
+      [
+        4517.970443041321,
+        8.8
+      ],
+      [
+        4500.0,
+        8.8
+      ],
+      [
+        4500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.88,
+    "seg_confidence_current": 0.9,
+    "registration_residual_m": 0.54,
+    "temporal_passes": 2,
+    "true_change": true
+  },
+  {
+    "plot_id": "NN-2609",
+    "khasra_detected": "N-NN-2609",
+    "baseline_polygon": [
+      [
+        5000.0,
+        0
+      ],
+      [
+        5010.0,
+        0
+      ],
+      [
+        5010.0,
+        8.0
+      ],
+      [
+        5000.0,
+        8.0
+      ],
+      [
+        5000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        5000.08,
+        0.06
+      ],
+      [
+        5010.08,
+        0.06
+      ],
+      [
+        5010.08,
+        8.06
+      ],
+      [
+        5000.08,
+        8.06
+      ],
+      [
+        5000.08,
+        0.06
+      ]
+    ],
+    "seg_confidence_baseline": 0.88,
+    "seg_confidence_current": 0.87,
+    "registration_residual_m": 0.29,
+    "temporal_passes": 1,
+    "true_change": false
+  },
+  {
+    "plot_id": "NN-2610",
+    "khasra_detected": "N-NN-2610",
+    "baseline_polygon": [
+      [
+        5500.0,
+        0
+      ],
+      [
+        5511.5,
+        0
+      ],
+      [
+        5511.5,
+        7.5
+      ],
+      [
+        5500.0,
+        7.5
+      ],
+      [
+        5500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        5500.1,
+        0.05
+      ],
+      [
+        5511.6,
+        0.05
+      ],
+      [
+        5511.6,
+        7.55
+      ],
+      [
+        5500.1,
+        7.55
+      ],
+      [
+        5500.1,
+        0.05
+      ]
+    ],
+    "seg_confidence_baseline": 0.89,
+    "seg_confidence_current": 0.9,
+    "registration_residual_m": 0.44,
+    "temporal_passes": 1,
+    "true_change": false
+  },
+  {
+    "plot_id": "NN-2611",
+    "khasra_detected": "N-NN-2611",
+    "baseline_polygon": [
+      [
+        6000.0,
+        0
+      ],
+      [
+        6009.0,
+        0
+      ],
+      [
+        6009.0,
+        9.0
+      ],
+      [
+        6000.0,
+        9.0
+      ],
+      [
+        6000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        6000.07,
+        0.09
+      ],
+      [
+        6009.07,
+        0.09
+      ],
+      [
+        6009.07,
+        9.09
+      ],
+      [
+        6000.07,
+        9.09
+      ],
+      [
+        6000.07,
+        0.09
+      ]
+    ],
+    "seg_confidence_baseline": 0.88,
+    "seg_confidence_current": 0.85,
+    "registration_residual_m": 0.46,
+    "temporal_passes": 1,
+    "true_change": false
+  },
+  {
+    "plot_id": "NN-2612",
+    "khasra_detected": "N-NN-2612",
+    "baseline_polygon": [
+      [
+        6500.0,
+        0
+      ],
+      [
+        6512.0,
+        0
+      ],
+      [
+        6512.0,
+        9.0
+      ],
+      [
+        6500.0,
+        9.0
+      ],
+      [
+        6500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        6501.5,
+        0.0
+      ],
+      [
+        6513.608,
+        0.0
+      ],
+      [
+        6513.608,
+        9.0
+      ],
+      [
+        6501.5,
+        9.0
+      ],
+      [
+        6501.5,
+        0.0
+      ]
+    ],
+    "seg_confidence_baseline": 0.87,
+    "seg_confidence_current": 0.86,
+    "registration_residual_m": 0.56,
+    "temporal_passes": 3,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-001",
+    "khasra_detected": "301/3",
+    "baseline_polygon": [
+      [
+        7000.0,
+        0
+      ],
+      [
+        7007.1,
+        0
+      ],
+      [
+        7007.1,
+        6.7
+      ],
+      [
+        7000.0,
+        6.7
+      ],
+      [
+        7000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        7000.0,
+        0
+      ],
+      [
+        7007.1,
+        0
+      ],
+      [
+        7007.1,
+        6.7
+      ],
+      [
+        7000.0,
+        6.7
+      ],
+      [
+        7000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.88,
+    "seg_confidence_current": 0.9,
+    "registration_residual_m": 0.69,
+    "temporal_passes": 1,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-002",
+    "khasra_detected": "302/3",
+    "baseline_polygon": [
+      [
+        7500.0,
+        0
+      ],
+      [
+        7508.2,
+        0
+      ],
+      [
+        7508.2,
+        7.4
+      ],
+      [
+        7500.0,
+        7.4
+      ],
+      [
+        7500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        7500.0,
+        0
+      ],
+      [
+        7508.2,
+        0
+      ],
+      [
+        7508.2,
+        7.4
+      ],
+      [
+        7500.0,
+        7.4
+      ],
+      [
+        7500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.83,
+    "seg_confidence_current": 0.8,
+    "registration_residual_m": 0.32,
+    "temporal_passes": 2,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-003",
+    "khasra_detected": "303/3",
+    "baseline_polygon": [
+      [
+        8000.0,
+        0
+      ],
+      [
+        8009.3,
+        0
+      ],
+      [
+        8009.3,
+        8.1
+      ],
+      [
+        8000.0,
+        8.1
+      ],
+      [
+        8000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        8000.0,
+        0
+      ],
+      [
+        8009.3,
+        0
+      ],
+      [
+        8009.3,
+        8.1
+      ],
+      [
+        8000.0,
+        8.1
+      ],
+      [
+        8000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.81,
+    "seg_confidence_current": 0.94,
+    "registration_residual_m": 0.5,
+    "temporal_passes": 3,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-004",
+    "khasra_detected": "304/3",
+    "baseline_polygon": [
+      [
+        8500.0,
+        0
+      ],
+      [
+        8510.4,
+        0
+      ],
+      [
+        8510.4,
+        8.8
+      ],
+      [
+        8500.0,
+        8.8
+      ],
+      [
+        8500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        8500.0,
+        0
+      ],
+      [
+        8510.4,
+        0
+      ],
+      [
+        8510.4,
+        8.8
+      ],
+      [
+        8500.0,
+        8.8
+      ],
+      [
+        8500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.85,
+    "seg_confidence_current": 0.9,
+    "registration_residual_m": 0.38,
+    "temporal_passes": 3,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-005",
+    "khasra_detected": "305/3",
+    "baseline_polygon": [
+      [
+        9000.0,
+        0
+      ],
+      [
+        9011.5,
+        0
+      ],
+      [
+        9011.5,
+        9.5
+      ],
+      [
+        9000.0,
+        9.5
+      ],
+      [
+        9000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        9000.0,
+        0
+      ],
+      [
+        9011.5,
+        0
+      ],
+      [
+        9011.5,
+        9.5
+      ],
+      [
+        9000.0,
+        9.5
+      ],
+      [
+        9000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.87,
+    "seg_confidence_current": 0.84,
+    "registration_residual_m": 0.27,
+    "temporal_passes": 3,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-006",
+    "khasra_detected": "306/3",
+    "baseline_polygon": [
+      [
+        9500.0,
+        0
+      ],
+      [
+        9512.6,
+        0
+      ],
+      [
+        9512.6,
+        10.2
+      ],
+      [
+        9500.0,
+        10.2
+      ],
+      [
+        9500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        9500.0,
+        0
+      ],
+      [
+        9512.6,
+        0
+      ],
+      [
+        9512.6,
+        10.2
+      ],
+      [
+        9500.0,
+        10.2
+      ],
+      [
+        9500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.88,
+    "seg_confidence_current": 0.91,
+    "registration_residual_m": 0.4,
+    "temporal_passes": 3,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-007",
+    "khasra_detected": "307/3",
+    "baseline_polygon": [
+      [
+        10000.0,
+        0
+      ],
+      [
+        10013.7,
+        0
+      ],
+      [
+        10013.7,
+        10.899999999999999
+      ],
+      [
+        10000.0,
+        10.899999999999999
+      ],
+      [
+        10000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        10000.0,
+        0
+      ],
+      [
+        10013.7,
+        0
+      ],
+      [
+        10013.7,
+        10.899999999999999
+      ],
+      [
+        10000.0,
+        10.899999999999999
+      ],
+      [
+        10000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.86,
+    "seg_confidence_current": 0.83,
+    "registration_residual_m": 0.8,
+    "temporal_passes": 3,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-008",
+    "khasra_detected": "308/3",
+    "baseline_polygon": [
+      [
+        10500.0,
+        0
+      ],
+      [
+        10514.8,
+        0
+      ],
+      [
+        10514.8,
+        11.6
+      ],
+      [
+        10500.0,
+        11.6
+      ],
+      [
+        10500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        10500.0,
+        0
+      ],
+      [
+        10514.8,
+        0
+      ],
+      [
+        10514.8,
+        11.6
+      ],
+      [
+        10500.0,
+        11.6
+      ],
+      [
+        10500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.87,
+    "seg_confidence_current": 0.91,
+    "registration_residual_m": 0.7,
+    "temporal_passes": 1,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-009",
+    "khasra_detected": "309/3",
+    "baseline_polygon": [
+      [
+        11000.0,
+        0
+      ],
+      [
+        11015.9,
+        0
+      ],
+      [
+        11015.9,
+        12.3
+      ],
+      [
+        11000.0,
+        12.3
+      ],
+      [
+        11000.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        11000.0,
+        0
+      ],
+      [
+        11015.9,
+        0
+      ],
+      [
+        11015.9,
+        12.3
+      ],
+      [
+        11000.0,
+        12.3
+      ],
+      [
+        11000.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.89,
+    "seg_confidence_current": 0.92,
+    "registration_residual_m": 0.4,
+    "temporal_passes": 1,
+    "true_change": false
+  },
+  {
+    "plot_id": "UNCH-010",
+    "khasra_detected": "310/3",
+    "baseline_polygon": [
+      [
+        11500.0,
+        0
+      ],
+      [
+        11517.0,
+        0
+      ],
+      [
+        11517.0,
+        13.0
+      ],
+      [
+        11500.0,
+        13.0
+      ],
+      [
+        11500.0,
+        0
+      ]
+    ],
+    "current_polygon": [
+      [
+        11500.0,
+        0
+      ],
+      [
+        11517.0,
+        0
+      ],
+      [
+        11517.0,
+        13.0
+      ],
+      [
+        11500.0,
+        13.0
+      ],
+      [
+        11500.0,
+        0
+      ]
+    ],
+    "seg_confidence_baseline": 0.86,
+    "seg_confidence_current": 0.89,
+    "registration_residual_m": 0.43,
+    "temporal_passes": 2,
+    "true_change": false
+  }
+]

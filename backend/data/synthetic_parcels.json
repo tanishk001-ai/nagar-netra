@@ -1,0 +1,674 @@
+[
+  {
+    "khasra": "101/1",
+    "plan_geometry": [
+      [
+        0.0,
+        0
+      ],
+      [
+        9.4,
+        0
+      ],
+      [
+        9.4,
+        7.3
+      ],
+      [
+        0.0,
+        7.3
+      ],
+      [
+        0.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 68.6,
+    "tax_assessed_area_sqm": 68.6,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "102/1",
+    "plan_geometry": [
+      [
+        500.0,
+        0
+      ],
+      [
+        509.8,
+        0
+      ],
+      [
+        509.8,
+        7.6
+      ],
+      [
+        500.0,
+        7.6
+      ],
+      [
+        500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 74.5,
+    "tax_assessed_area_sqm": 74.5,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "103/1",
+    "plan_geometry": [
+      [
+        1000.0,
+        0
+      ],
+      [
+        1010.2,
+        0
+      ],
+      [
+        1010.2,
+        7.9
+      ],
+      [
+        1000.0,
+        7.9
+      ],
+      [
+        1000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 80.6,
+    "tax_assessed_area_sqm": 80.6,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "104/1",
+    "plan_geometry": [
+      [
+        1500.0,
+        0
+      ],
+      [
+        1510.6,
+        0
+      ],
+      [
+        1510.6,
+        8.2
+      ],
+      [
+        1500.0,
+        8.2
+      ],
+      [
+        1500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 86.9,
+    "tax_assessed_area_sqm": 86.9,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "105/1",
+    "plan_geometry": [
+      [
+        2000.0,
+        0
+      ],
+      [
+        2011.0,
+        0
+      ],
+      [
+        2011.0,
+        8.5
+      ],
+      [
+        2000.0,
+        8.5
+      ],
+      [
+        2000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 93.5,
+    "tax_assessed_area_sqm": 93.5,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "106/1",
+    "plan_geometry": [
+      [
+        2500.0,
+        0
+      ],
+      [
+        2511.4,
+        0
+      ],
+      [
+        2511.4,
+        8.8
+      ],
+      [
+        2500.0,
+        8.8
+      ],
+      [
+        2500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 100.3,
+    "tax_assessed_area_sqm": 100.3,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "201/2",
+    "plan_geometry": [
+      [
+        2998.95,
+        0
+      ],
+      [
+        3008.3999999999996,
+        0
+      ],
+      [
+        3008.3999999999996,
+        8.2
+      ],
+      [
+        2998.95,
+        8.2
+      ],
+      [
+        2998.95,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 86.1,
+    "tax_assessed_area_sqm": 86.1,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "202/2",
+    "plan_geometry": [
+      [
+        3498.9,
+        0
+      ],
+      [
+        3508.8,
+        0
+      ],
+      [
+        3508.8,
+        8.4
+      ],
+      [
+        3498.9,
+        8.4
+      ],
+      [
+        3498.9,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 92.4,
+    "tax_assessed_area_sqm": 92.4,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "203/2",
+    "plan_geometry": [
+      [
+        3998.85,
+        0
+      ],
+      [
+        4009.2,
+        0
+      ],
+      [
+        4009.2,
+        8.6
+      ],
+      [
+        3998.85,
+        8.6
+      ],
+      [
+        3998.85,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 98.9,
+    "tax_assessed_area_sqm": 98.9,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "204/2",
+    "plan_geometry": [
+      [
+        4498.8,
+        0
+      ],
+      [
+        4509.6,
+        0
+      ],
+      [
+        4509.6,
+        8.8
+      ],
+      [
+        4498.8,
+        8.8
+      ],
+      [
+        4498.8,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 105.6,
+    "tax_assessed_area_sqm": 105.6,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "N-NN-2609",
+    "plan_geometry": [
+      [
+        5000.0,
+        0
+      ],
+      [
+        5010.0,
+        0
+      ],
+      [
+        5010.0,
+        8.0
+      ],
+      [
+        5000.0,
+        8.0
+      ],
+      [
+        5000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 80.0,
+    "tax_assessed_area_sqm": 80.0,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "N-NN-2610",
+    "plan_geometry": [
+      [
+        5500.0,
+        0
+      ],
+      [
+        5511.5,
+        0
+      ],
+      [
+        5511.5,
+        7.5
+      ],
+      [
+        5500.0,
+        7.5
+      ],
+      [
+        5500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 86.2,
+    "tax_assessed_area_sqm": 86.2,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "N-NN-2611",
+    "plan_geometry": [
+      [
+        6000.0,
+        0
+      ],
+      [
+        6009.0,
+        0
+      ],
+      [
+        6009.0,
+        9.0
+      ],
+      [
+        6000.0,
+        9.0
+      ],
+      [
+        6000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 81.0,
+    "tax_assessed_area_sqm": 81.0,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "N-NN-2612",
+    "plan_geometry": [
+      [
+        6500.0,
+        0
+      ],
+      [
+        6512.0,
+        0
+      ],
+      [
+        6512.0,
+        9.0
+      ],
+      [
+        6500.0,
+        9.0
+      ],
+      [
+        6500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 108.0,
+    "tax_assessed_area_sqm": 108.0,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "301/3",
+    "plan_geometry": [
+      [
+        7000.0,
+        0
+      ],
+      [
+        7007.1,
+        0
+      ],
+      [
+        7007.1,
+        6.7
+      ],
+      [
+        7000.0,
+        6.7
+      ],
+      [
+        7000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 47.6,
+    "tax_assessed_area_sqm": 47.6,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "302/3",
+    "plan_geometry": [
+      [
+        7500.0,
+        0
+      ],
+      [
+        7508.2,
+        0
+      ],
+      [
+        7508.2,
+        7.4
+      ],
+      [
+        7500.0,
+        7.4
+      ],
+      [
+        7500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 60.7,
+    "tax_assessed_area_sqm": 60.7,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "303/3",
+    "plan_geometry": [
+      [
+        8000.0,
+        0
+      ],
+      [
+        8009.3,
+        0
+      ],
+      [
+        8009.3,
+        8.1
+      ],
+      [
+        8000.0,
+        8.1
+      ],
+      [
+        8000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 75.3,
+    "tax_assessed_area_sqm": 75.3,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "304/3",
+    "plan_geometry": [
+      [
+        8500.0,
+        0
+      ],
+      [
+        8510.4,
+        0
+      ],
+      [
+        8510.4,
+        8.8
+      ],
+      [
+        8500.0,
+        8.8
+      ],
+      [
+        8500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 91.5,
+    "tax_assessed_area_sqm": 91.5,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "305/3",
+    "plan_geometry": [
+      [
+        9000.0,
+        0
+      ],
+      [
+        9011.5,
+        0
+      ],
+      [
+        9011.5,
+        9.5
+      ],
+      [
+        9000.0,
+        9.5
+      ],
+      [
+        9000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 109.2,
+    "tax_assessed_area_sqm": 109.2,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "306/3",
+    "plan_geometry": [
+      [
+        9500.0,
+        0
+      ],
+      [
+        9512.6,
+        0
+      ],
+      [
+        9512.6,
+        10.2
+      ],
+      [
+        9500.0,
+        10.2
+      ],
+      [
+        9500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 128.5,
+    "tax_assessed_area_sqm": 128.5,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "307/3",
+    "plan_geometry": [
+      [
+        10000.0,
+        0
+      ],
+      [
+        10013.7,
+        0
+      ],
+      [
+        10013.7,
+        10.899999999999999
+      ],
+      [
+        10000.0,
+        10.899999999999999
+      ],
+      [
+        10000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 149.3,
+    "tax_assessed_area_sqm": 149.3,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "308/3",
+    "plan_geometry": [
+      [
+        10500.0,
+        0
+      ],
+      [
+        10514.8,
+        0
+      ],
+      [
+        10514.8,
+        11.6
+      ],
+      [
+        10500.0,
+        11.6
+      ],
+      [
+        10500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 171.7,
+    "tax_assessed_area_sqm": 171.7,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "309/3",
+    "plan_geometry": [
+      [
+        11000.0,
+        0
+      ],
+      [
+        11015.9,
+        0
+      ],
+      [
+        11015.9,
+        12.3
+      ],
+      [
+        11000.0,
+        12.3
+      ],
+      [
+        11000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 195.6,
+    "tax_assessed_area_sqm": 195.6,
+    "already_reassessed": false
+  },
+  {
+    "khasra": "310/3",
+    "plan_geometry": [
+      [
+        11500.0,
+        0
+      ],
+      [
+        11517.0,
+        0
+      ],
+      [
+        11517.0,
+        13.0
+      ],
+      [
+        11500.0,
+        13.0
+      ],
+      [
+        11500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 221.0,
+    "tax_assessed_area_sqm": 221.0,
+    "already_reassessed": false
+  }
+]

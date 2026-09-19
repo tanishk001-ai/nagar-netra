@@ -1,0 +1,667 @@
+[
+  {
+    "khasra": "214/2",
+    "plan_geometry": [
+      [
+        0.0,
+        0
+      ],
+      [
+        10.29,
+        0
+      ],
+      [
+        10.29,
+        7.63
+      ],
+      [
+        0.0,
+        7.63
+      ],
+      [
+        0.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 78.5,
+    "tax_assessed_area_sqm": 78.5,
+    "already_reassessed": false,
+    "approved_floors": 1,
+    "approval_date": "2015-03-12",
+    "approval_ref_no": "TNCP/BPL/2015/0342",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 3240,
+    "last_assessed_year": 2021
+  },
+  {
+    "khasra": "76/1/A",
+    "plan_geometry": [
+      [
+        500.0,
+        0
+      ],
+      [
+        511.14,
+        0
+      ],
+      [
+        511.14,
+        8.26
+      ],
+      [
+        500.0,
+        8.26
+      ],
+      [
+        500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 92.0,
+    "tax_assessed_area_sqm": 92.0,
+    "already_reassessed": false,
+    "approved_floors": 2,
+    "approval_date": "2017-06-24",
+    "approval_ref_no": "TNCP/BPL/2017/0819",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 4780,
+    "last_assessed_year": 2022
+  },
+  {
+    "khasra": "221/1",
+    "plan_geometry": [
+      [
+        1000.0,
+        0
+      ],
+      [
+        1014.0,
+        0
+      ],
+      [
+        1014.0,
+        10.37
+      ],
+      [
+        1000.0,
+        10.37
+      ],
+      [
+        1000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 145.2,
+    "tax_assessed_area_sqm": 145.2,
+    "already_reassessed": false,
+    "approved_floors": 2,
+    "approval_date": "2012-11-02",
+    "approval_ref_no": "TNCP/BPL/2012/0156",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Mixed Use",
+    "annual_tax_rs": 9650,
+    "last_assessed_year": 2023
+  },
+  {
+    "khasra": "58/4",
+    "plan_geometry": [
+      [
+        1500.0,
+        0
+      ],
+      [
+        1509.35,
+        0
+      ],
+      [
+        1509.35,
+        6.93
+      ],
+      [
+        1500.0,
+        6.93
+      ],
+      [
+        1500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 64.8,
+    "tax_assessed_area_sqm": 64.8,
+    "already_reassessed": false,
+    "approved_floors": 1,
+    "approval_date": "2018-01-19",
+    "approval_ref_no": "TNCP/BPL/2018/0623",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 2890,
+    "last_assessed_year": 2021
+  },
+  {
+    "khasra": "13/2/B",
+    "plan_geometry": [
+      [
+        2000.0,
+        0
+      ],
+      [
+        2015.96,
+        0
+      ],
+      [
+        2015.96,
+        11.82
+      ],
+      [
+        2000.0,
+        11.82
+      ],
+      [
+        2000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 188.6,
+    "tax_assessed_area_sqm": 188.6,
+    "already_reassessed": false,
+    "approved_floors": 3,
+    "approval_date": "2011-08-07",
+    "approval_ref_no": "TNCP/BPL/2011/0071",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Commercial",
+    "annual_tax_rs": 14200,
+    "last_assessed_year": 2024
+  },
+  {
+    "khasra": "198/3",
+    "plan_geometry": [
+      [
+        2500.0,
+        0
+      ],
+      [
+        2509.81,
+        0
+      ],
+      [
+        2509.81,
+        7.27
+      ],
+      [
+        2500.0,
+        7.27
+      ],
+      [
+        2500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 71.3,
+    "tax_assessed_area_sqm": 71.3,
+    "already_reassessed": false,
+    "approved_floors": 1,
+    "approval_date": "2016-04-30",
+    "approval_ref_no": "TNCP/BPL/2016/0498",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 3510,
+    "last_assessed_year": 2022
+  },
+  {
+    "khasra": "9/1",
+    "plan_geometry": [
+      [
+        2999.0232,
+        0
+      ],
+      [
+        3010.2564,
+        0
+      ],
+      [
+        3010.2564,
+        9.04
+      ],
+      [
+        2999.0232,
+        9.04
+      ],
+      [
+        2999.0232,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 110.4,
+    "tax_assessed_area_sqm": 110.4,
+    "already_reassessed": false,
+    "approved_floors": 2,
+    "approval_date": "2019-09-15",
+    "approval_ref_no": "TNCP/BPL/2019/0937",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 6420,
+    "last_assessed_year": 2023
+  },
+  {
+    "khasra": "32/2/C",
+    "plan_geometry": [
+      [
+        3500.0,
+        0
+      ],
+      [
+        3511.43,
+        0
+      ],
+      [
+        3511.43,
+        8.46
+      ],
+      [
+        3500.0,
+        8.46
+      ],
+      [
+        3500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 96.7,
+    "tax_assessed_area_sqm": 162.8,
+    "already_reassessed": true,
+    "approved_floors": 2,
+    "approval_date": "2014-02-27",
+    "approval_ref_no": "TNCP/BPL/2014/0284",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 5180,
+    "last_assessed_year": 2021
+  },
+  {
+    "khasra": "207/5",
+    "plan_geometry": [
+      [
+        4000.0,
+        0
+      ],
+      [
+        4013.49,
+        0
+      ],
+      [
+        4013.49,
+        10.0
+      ],
+      [
+        4000.0,
+        10.0
+      ],
+      [
+        4000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 134.9,
+    "tax_assessed_area_sqm": 134.9,
+    "already_reassessed": false,
+    "approved_floors": 2,
+    "approval_date": "2017-12-05",
+    "approval_ref_no": "TNCP/BPL/2017/0765",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Mixed Use",
+    "annual_tax_rs": 8930,
+    "last_assessed_year": 2023
+  },
+  {
+    "khasra": "81/3",
+    "plan_geometry": [
+      [
+        4500.0,
+        0
+      ],
+      [
+        4516.65,
+        0
+      ],
+      [
+        4516.65,
+        12.33
+      ],
+      [
+        4500.0,
+        12.33
+      ],
+      [
+        4500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 205.3,
+    "tax_assessed_area_sqm": 205.3,
+    "already_reassessed": false,
+    "approved_floors": 3,
+    "approval_date": "2010-05-21",
+    "approval_ref_no": "TNCP/BPL/2010/0039",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Commercial",
+    "annual_tax_rs": 15600,
+    "last_assessed_year": 2024
+  },
+  {
+    "khasra": "62/1",
+    "plan_geometry": [
+      [
+        5000.0,
+        0
+      ],
+      [
+        5008.86,
+        0
+      ],
+      [
+        5008.86,
+        6.57
+      ],
+      [
+        5000.0,
+        6.57
+      ],
+      [
+        5000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 58.2,
+    "tax_assessed_area_sqm": 58.2,
+    "already_reassessed": false,
+    "approved_floors": 1,
+    "approval_date": "2020-07-14",
+    "approval_ref_no": "TNCP/BPL/2020/1042",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 2410,
+    "last_assessed_year": 2021
+  },
+  {
+    "khasra": "17/2",
+    "plan_geometry": [
+      [
+        5500.0,
+        0
+      ],
+      [
+        5512.87,
+        0
+      ],
+      [
+        5512.87,
+        9.53
+      ],
+      [
+        5500.0,
+        9.53
+      ],
+      [
+        5500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 122.6,
+    "tax_assessed_area_sqm": 122.6,
+    "already_reassessed": false,
+    "approved_floors": 2,
+    "approval_date": "2013-10-09",
+    "approval_ref_no": "TNCP/BPL/2013/0217",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 7260,
+    "last_assessed_year": 2022
+  },
+  {
+    "khasra": "230/1/A",
+    "plan_geometry": [
+      [
+        6000.0,
+        0
+      ],
+      [
+        6010.89,
+        0
+      ],
+      [
+        6010.89,
+        8.07
+      ],
+      [
+        6000.0,
+        8.07
+      ],
+      [
+        6000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 87.9,
+    "tax_assessed_area_sqm": 87.9,
+    "already_reassessed": false,
+    "approved_floors": 1,
+    "approval_date": "2016-03-03",
+    "approval_ref_no": "TNCP/BPL/2016/0361",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 4050,
+    "last_assessed_year": 2022
+  },
+  {
+    "khasra": "11/4",
+    "plan_geometry": [
+      [
+        6500.0,
+        0
+      ],
+      [
+        6514.67,
+        0
+      ],
+      [
+        6514.67,
+        10.87
+      ],
+      [
+        6500.0,
+        10.87
+      ],
+      [
+        6500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 159.4,
+    "tax_assessed_area_sqm": 159.4,
+    "already_reassessed": false,
+    "approved_floors": 3,
+    "approval_date": "2009-09-18",
+    "approval_ref_no": "TNCP/BPL/2009/0018",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Mixed Use",
+    "annual_tax_rs": 11800,
+    "last_assessed_year": 2023
+  },
+  {
+    "khasra": "40/1",
+    "plan_geometry": [
+      [
+        7000.0,
+        0
+      ],
+      [
+        7015.45,
+        0
+      ],
+      [
+        7015.45,
+        11.44
+      ],
+      [
+        7000.0,
+        11.44
+      ],
+      [
+        7000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 176.8,
+    "tax_assessed_area_sqm": 176.8,
+    "already_reassessed": false,
+    "approved_floors": 3,
+    "approval_date": "2012-06-26",
+    "approval_ref_no": "TNCP/BPL/2012/0509",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 12950,
+    "last_assessed_year": 2024
+  },
+  {
+    "khasra": "218/2",
+    "plan_geometry": [
+      [
+        7500.0,
+        0
+      ],
+      [
+        7509.61,
+        0
+      ],
+      [
+        7509.61,
+        7.12
+      ],
+      [
+        7500.0,
+        7.12
+      ],
+      [
+        7500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 68.4,
+    "tax_assessed_area_sqm": 68.4,
+    "already_reassessed": false,
+    "approved_floors": 1,
+    "approval_date": "2018-11-11",
+    "approval_ref_no": "TNCP/BPL/2018/0872",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 3080,
+    "last_assessed_year": 2021
+  },
+  {
+    "khasra": "89/2/B",
+    "plan_geometry": [
+      [
+        7998.896,
+        0
+      ],
+      [
+        8011.592,
+        0
+      ],
+      [
+        8011.592,
+        10.22
+      ],
+      [
+        7998.896,
+        10.22
+      ],
+      [
+        7998.896,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 141.0,
+    "tax_assessed_area_sqm": 141.0,
+    "already_reassessed": false,
+    "approved_floors": 2,
+    "approval_date": "2015-01-30",
+    "approval_ref_no": "TNCP/BPL/2015/0193",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 7940,
+    "last_assessed_year": 2023
+  },
+  {
+    "khasra": "70/1",
+    "plan_geometry": [
+      [
+        8500.0,
+        0
+      ],
+      [
+        8516.37,
+        0
+      ],
+      [
+        8516.37,
+        12.13
+      ],
+      [
+        8500.0,
+        12.13
+      ],
+      [
+        8500.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 198.5,
+    "tax_assessed_area_sqm": 198.5,
+    "already_reassessed": false,
+    "approved_floors": 3,
+    "approval_date": "2011-04-15",
+    "approval_ref_no": "TNCP/BPL/2011/0126",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Commercial",
+    "annual_tax_rs": 13400,
+    "last_assessed_year": 2024
+  },
+  {
+    "khasra": "225/3",
+    "plan_geometry": [
+      [
+        9000.0,
+        0
+      ],
+      [
+        9011.83,
+        0
+      ],
+      [
+        9011.83,
+        8.76
+      ],
+      [
+        9000.0,
+        8.76
+      ],
+      [
+        9000.0,
+        0
+      ]
+    ],
+    "sanctioned_built_up_area_sqm": 103.6,
+    "tax_assessed_area_sqm": 103.6,
+    "already_reassessed": false,
+    "approved_floors": 1,
+    "approval_date": "2019-05-08",
+    "approval_ref_no": "TNCP/BPL/2019/0654",
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept.",
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 5760,
+    "last_assessed_year": 2022
+  }
+]
