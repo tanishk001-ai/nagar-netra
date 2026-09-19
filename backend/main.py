@@ -25,6 +25,9 @@ app = FastAPI(title="Nagar Netra API")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    # Covers the production domain and every Vercel preview deployment
+    # (each preview gets its own <project>-<hash>-<team>.vercel.app host).
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_methods=["*"],
     allow_headers=["*"],
 )
