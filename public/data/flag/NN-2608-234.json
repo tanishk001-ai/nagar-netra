@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2608-234",
+  "ward_id": "BGM-60",
+  "khasra_no": "Khasra No. 11/4",
+  "owner_name": "Meena Kushwaha",
+  "address": "Sector 7, Bagmugaliya Extension",
+  "flagged": true,
+  "reason": null,
+  "match_type": "exact_khasra_match",
+  "excess_area_sqm": 150.9,
+  "confidence_pct": 88.1,
+  "detected_on": "2026-08-26",
+  "status": "pending",
+  "resolved_on": null,
+  "geometry": {
+    "baseline_area_sqm": 159.5,
+    "current_area_sqm": 310.3,
+    "excess_area_sqm": 150.9,
+    "pct_growth": 94.6,
+    "changed_area_sqm": 150.9,
+    "iou": 0.514,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 88.1,
+    "segmentation_score": 0.91,
+    "registration_score": 0.83,
+    "record_match_score": 1.0,
+    "temporal_score": 0.75,
+    "factors": [
+      "Detected outline holds 91% average segmentation confidence across both imagery dates.",
+      "Imagery passes align within 0.3m, a tight registration.",
+      "Matched to its sanctioned-plan record by exact khasra number.",
+      "Change observed on 2 imagery passes so far; confidence would rise if it persists into the next cycle."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-07-08",
+    "baseline_source": "ISRO Bhuvan archive, 0.3m pansharpened",
+    "current_date": "2026-08-24",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2009/0018",
+    "approval_date": "2009-09-18",
+    "approved_built_up_area_sqm": 159.4,
+    "approved_floors": 3,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2023/051775",
+    "assessed_area_sqm": 159.4,
+    "occupancy_type": "Mixed Use",
+    "annual_tax_rs": 11800,
+    "last_assessed_year": 2023
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2607-156",
+  "ward_id": "KLR-43",
+  "khasra_no": "Khasra No. 221/1",
+  "owner_name": "Devendra Chouksey",
+  "address": "H.No. 27, Vrindavan Nagar Extension, Kolar Road",
+  "flagged": true,
+  "reason": null,
+  "match_type": "exact_khasra_match",
+  "excess_area_sqm": 47.1,
+  "confidence_pct": 92.1,
+  "detected_on": "2026-07-14",
+  "status": "confirmed",
+  "resolved_on": "2026-09-15",
+  "geometry": {
+    "baseline_area_sqm": 145.2,
+    "current_area_sqm": 192.3,
+    "excess_area_sqm": 47.1,
+    "pct_growth": 32.4,
+    "changed_area_sqm": 47.1,
+    "iou": 0.755,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 92.1,
+    "segmentation_score": 0.89,
+    "registration_score": 0.81,
+    "record_match_score": 1.0,
+    "temporal_score": 1.0,
+    "factors": [
+      "Detected outline holds 89% average segmentation confidence across both imagery dates.",
+      "Imagery passes align within 0.4m, a tight registration.",
+      "Matched to its sanctioned-plan record by exact khasra number.",
+      "Change persists across multiple imagery passes."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-06-12",
+    "baseline_source": "Cartosat-3, 0.28m PAN",
+    "current_date": "2026-07-11",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2012/0156",
+    "approval_date": "2012-11-02",
+    "approved_built_up_area_sqm": 145.2,
+    "approved_floors": 2,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2023/086871",
+    "assessed_area_sqm": 145.2,
+    "occupancy_type": "Mixed Use",
+    "annual_tax_rs": 9650,
+    "last_assessed_year": 2023
+  }
+}

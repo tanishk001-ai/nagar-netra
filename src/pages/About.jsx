@@ -1,4 +1,5 @@
-import { ShieldCheck, ScanSearch, Landmark, Receipt } from 'lucide-react'
+import { ShieldCheck, ScanSearch, Landmark, Receipt, Info } from 'lucide-react'
+import { isStaticBuild } from '../api/client'
 
 const STEPS = [
   { icon: ScanSearch, title: 'Change detection', text: 'Each ward is re-flown on a rolling cycle. Building footprints from the current pass are compared against the last confirmed baseline to isolate genuine new construction from noise, shadow drift, and seasonal cover.' },
@@ -16,6 +17,15 @@ export default function About() {
         NAKSHA programme under the Department of Land Resources, Ministry of Rural Development, as a submission
         for problem statement SIH26013.
       </p>
+
+      {isStaticBuild && (
+        <div className="mt-6 flex items-center gap-2.5 rounded-lg border border-hairline bg-brand-soft px-4 py-3">
+          <Info size={15} className="flex-none text-brand" />
+          <p className="text-xs text-brand">
+            Demo build: serves precomputed output of the matching and scoring engine. Live API and tests are in the repository.
+          </p>
+        </div>
+      )}
 
       <div className="mt-8 flex flex-col gap-5">
         {STEPS.map((s) => (

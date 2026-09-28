@@ -1,0 +1,33 @@
+{
+  "plot_id": "NN-2607-114",
+  "ward_id": "KLR-43",
+  "khasra_no": "Khasra No. 214/2",
+  "owner_name": "Ramnivas Patel",
+  "address": "H.No. 12-B, Metro Vihar Colony, Kolar Road",
+  "flagged": false,
+  "reason": "change_below_noise_floor",
+  "match_type": null,
+  "excess_area_sqm": null,
+  "confidence_pct": null,
+  "detected_on": "2026-07-03",
+  "status": null,
+  "resolved_on": null,
+  "geometry": {
+    "baseline_area_sqm": 78.5,
+    "current_area_sqm": 78.5,
+    "excess_area_sqm": 0.0,
+    "pct_growth": 0.0,
+    "changed_area_sqm": 3.3,
+    "iou": 0.959,
+    "above_noise_floor": false
+  },
+  "confidence": null,
+  "imagery": {
+    "baseline_date": "2025-06-23",
+    "baseline_source": "Cartosat-3, 0.28m PAN",
+    "current_date": "2026-06-28",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": null,
+  "tax_record": null
+}

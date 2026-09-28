@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2609-045",
+  "ward_id": "AYN-51",
+  "khasra_no": "Khasra No. 89/2/B",
+  "owner_name": "Ashok Raikwar",
+  "address": "21/5, Nehru Colony Lane, Ayodhya Nagar",
+  "flagged": true,
+  "reason": null,
+  "match_type": "overlap_fallback_match",
+  "excess_area_sqm": 228.4,
+  "confidence_pct": 80.8,
+  "detected_on": "2026-09-05",
+  "status": "dismissed",
+  "resolved_on": "2026-09-11",
+  "geometry": {
+    "baseline_area_sqm": 141.0,
+    "current_area_sqm": 369.5,
+    "excess_area_sqm": 228.4,
+    "pct_growth": 162.0,
+    "changed_area_sqm": 228.4,
+    "iou": 0.382,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 80.8,
+    "segmentation_score": 0.88,
+    "registration_score": 0.74,
+    "record_match_score": 0.84,
+    "temporal_score": 0.75,
+    "factors": [
+      "Detected outline holds 88% average segmentation confidence across both imagery dates.",
+      "Imagery passes align within 0.5m, a tight registration.",
+      "No exact khasra match on file - matched by spatial overlap instead (match quality 0.84), which is inherently less certain.",
+      "Change observed on 2 imagery passes so far; confidence would rise if it persists into the next cycle."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-08-24",
+    "baseline_source": "Cartosat-3, 0.28m PAN",
+    "current_date": "2026-09-04",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2015/0193",
+    "approval_date": "2015-01-30",
+    "approved_built_up_area_sqm": 141.0,
+    "approved_floors": 2,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2023/075888",
+    "assessed_area_sqm": 141.0,
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 7940,
+    "last_assessed_year": 2023
+  }
+}

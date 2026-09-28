@@ -1,0 +1,45 @@
+{
+  "plot_id": "NN-2608-098",
+  "ward_id": "SHP-17",
+  "khasra_no": "Khasra No. 32/2/C",
+  "owner_name": "Iqbal Ahmed Siddiqui",
+  "address": "E-14, Shahpura",
+  "flagged": false,
+  "reason": "already_reassessed_on_tax_roll",
+  "match_type": null,
+  "excess_area_sqm": null,
+  "confidence_pct": null,
+  "detected_on": "2026-08-05",
+  "status": null,
+  "resolved_on": null,
+  "geometry": {
+    "baseline_area_sqm": 96.7,
+    "current_area_sqm": 178.9,
+    "excess_area_sqm": 82.2,
+    "pct_growth": 85.0,
+    "changed_area_sqm": 82.2,
+    "iou": 0.54,
+    "above_noise_floor": true
+  },
+  "confidence": null,
+  "imagery": {
+    "baseline_date": "2025-07-26",
+    "baseline_source": "ISRO Bhuvan archive, 0.3m pansharpened",
+    "current_date": "2026-08-03",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2014/0284",
+    "approval_date": "2014-02-27",
+    "approved_built_up_area_sqm": 96.7,
+    "approved_floors": 2,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2021/053764",
+    "assessed_area_sqm": 162.8,
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 5180,
+    "last_assessed_year": 2021
+  }
+}

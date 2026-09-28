@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2608-072",
+  "ward_id": "BGM-60",
+  "khasra_no": "Khasra No. 9/1",
+  "owner_name": "Kavita Dubey",
+  "address": "Sector 4, Bagmugaliya Extension",
+  "flagged": true,
+  "reason": null,
+  "match_type": "overlap_fallback_match",
+  "excess_area_sqm": 75.4,
+  "confidence_pct": 83.4,
+  "detected_on": "2026-08-02",
+  "status": "pending",
+  "resolved_on": null,
+  "geometry": {
+    "baseline_area_sqm": 110.4,
+    "current_area_sqm": 185.8,
+    "excess_area_sqm": 75.4,
+    "pct_growth": 68.3,
+    "changed_area_sqm": 75.4,
+    "iou": 0.594,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 83.4,
+    "segmentation_score": 0.9,
+    "registration_score": 0.82,
+    "record_match_score": 0.84,
+    "temporal_score": 0.75,
+    "factors": [
+      "Detected outline holds 90% average segmentation confidence across both imagery dates.",
+      "Imagery passes align within 0.4m, a tight registration.",
+      "No exact khasra match on file - matched by spatial overlap instead (match quality 0.84), which is inherently less certain.",
+      "Change observed on 2 imagery passes so far; confidence would rise if it persists into the next cycle."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-07-23",
+    "baseline_source": "ISRO Bhuvan archive, 0.3m pansharpened",
+    "current_date": "2026-07-31",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2019/0937",
+    "approval_date": "2019-09-15",
+    "approved_built_up_area_sqm": 110.4,
+    "approved_floors": 2,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2023/060867",
+    "assessed_area_sqm": 110.4,
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 6420,
+    "last_assessed_year": 2023
+  }
+}

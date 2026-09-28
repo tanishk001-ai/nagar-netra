@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2609-088",
+  "ward_id": "KLR-43",
+  "khasra_no": "Khasra No. 225/3",
+  "owner_name": "Naeem Khan",
+  "address": "H.No. 16, Gautam Nagar, Kolar Road",
+  "flagged": true,
+  "reason": null,
+  "match_type": "exact_khasra_match",
+  "excess_area_sqm": 252.7,
+  "confidence_pct": 82.4,
+  "detected_on": "2026-09-14",
+  "status": "pending",
+  "resolved_on": null,
+  "geometry": {
+    "baseline_area_sqm": 103.6,
+    "current_area_sqm": 356.4,
+    "excess_area_sqm": 252.7,
+    "pct_growth": 243.9,
+    "changed_area_sqm": 252.7,
+    "iou": 0.291,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 82.4,
+    "segmentation_score": 0.86,
+    "registration_score": 0.67,
+    "record_match_score": 1.0,
+    "temporal_score": 0.75,
+    "factors": [
+      "Detected outline holds 86% average segmentation confidence across both imagery dates.",
+      "Registration residual of 0.7m between passes is high enough to soften confidence on this parcel.",
+      "Matched to its sanctioned-plan record by exact khasra number.",
+      "Change observed on 2 imagery passes so far; confidence would rise if it persists into the next cycle."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-08-03",
+    "baseline_source": "Cartosat-3, 0.28m PAN",
+    "current_date": "2026-09-13",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2019/0654",
+    "approval_date": "2019-05-08",
+    "approved_built_up_area_sqm": 103.6,
+    "approved_floors": 1,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2022/061971",
+    "assessed_area_sqm": 103.6,
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 5760,
+    "last_assessed_year": 2022
+  }
+}

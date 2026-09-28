@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2609-021",
+  "ward_id": "KLR-43",
+  "khasra_no": "Khasra No. 218/2",
+  "owner_name": "Zeba Parveen",
+  "address": "H.No. 41, Vrindavan Nagar Extension, Kolar Road",
+  "flagged": true,
+  "reason": null,
+  "match_type": "exact_khasra_match",
+  "excess_area_sqm": 215.2,
+  "confidence_pct": 72.9,
+  "detected_on": "2026-09-02",
+  "status": "pending",
+  "resolved_on": null,
+  "geometry": {
+    "baseline_area_sqm": 68.4,
+    "current_area_sqm": 283.7,
+    "excess_area_sqm": 215.2,
+    "pct_growth": 314.6,
+    "changed_area_sqm": 215.2,
+    "iou": 0.241,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 72.9,
+    "segmentation_score": 0.83,
+    "registration_score": 0.6,
+    "record_match_score": 1.0,
+    "temporal_score": 0.4,
+    "factors": [
+      "Detected outline holds 83% average segmentation confidence across both imagery dates.",
+      "Registration residual of 0.8m between passes is high enough to soften confidence on this parcel.",
+      "Matched to its sanctioned-plan record by exact khasra number.",
+      "Change observed on 1 imagery pass so far; confidence would rise if it persists into the next cycle."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-07-15",
+    "baseline_source": "ISRO Bhuvan archive, 0.3m pansharpened",
+    "current_date": "2026-08-31",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2018/0872",
+    "approval_date": "2018-11-11",
+    "approved_built_up_area_sqm": 68.4,
+    "approved_floors": 1,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2021/045138",
+    "assessed_area_sqm": 68.4,
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 3080,
+    "last_assessed_year": 2021
+  }
+}

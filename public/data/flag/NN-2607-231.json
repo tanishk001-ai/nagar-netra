@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2607-231",
+  "ward_id": "CNB-29",
+  "khasra_no": "Khasra No. 13/2/B",
+  "owner_name": "Abdul Sattar Qureshi",
+  "address": "H.No. 63, Chuna Bhatti",
+  "flagged": true,
+  "reason": null,
+  "match_type": "exact_khasra_match",
+  "excess_area_sqm": 60.2,
+  "confidence_pct": 94.7,
+  "detected_on": "2026-07-22",
+  "status": "confirmed",
+  "resolved_on": "2026-08-30",
+  "geometry": {
+    "baseline_area_sqm": 188.6,
+    "current_area_sqm": 248.8,
+    "excess_area_sqm": 60.2,
+    "pct_growth": 31.9,
+    "changed_area_sqm": 60.2,
+    "iou": 0.758,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 94.7,
+    "segmentation_score": 0.94,
+    "registration_score": 0.85,
+    "record_match_score": 1.0,
+    "temporal_score": 1.0,
+    "factors": [
+      "Detected outline holds 94% average segmentation confidence across both imagery dates.",
+      "Imagery passes align within 0.3m, a tight registration.",
+      "Matched to its sanctioned-plan record by exact khasra number.",
+      "Change persists across multiple imagery passes."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-06-10",
+    "baseline_source": "Cartosat-3, 0.28m PAN",
+    "current_date": "2026-07-21",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2011/0071",
+    "approval_date": "2011-08-07",
+    "approved_built_up_area_sqm": 188.6,
+    "approved_floors": 3,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2024/090083",
+    "assessed_area_sqm": 188.6,
+    "occupancy_type": "Commercial",
+    "annual_tax_rs": 14200,
+    "last_assessed_year": 2024
+  }
+}

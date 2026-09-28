@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2609-067",
+  "ward_id": "BGS-38",
+  "khasra_no": "Khasra No. 70/1",
+  "owner_name": "Pushpa Bai Ahirwar",
+  "address": "Plot 55, Bagsevania Main Road",
+  "flagged": true,
+  "reason": null,
+  "match_type": "exact_khasra_match",
+  "excess_area_sqm": 220.3,
+  "confidence_pct": 96.9,
+  "detected_on": "2026-09-09",
+  "status": "confirmed",
+  "resolved_on": "2026-09-16",
+  "geometry": {
+    "baseline_area_sqm": 198.6,
+    "current_area_sqm": 418.8,
+    "excess_area_sqm": 220.3,
+    "pct_growth": 110.9,
+    "changed_area_sqm": 220.3,
+    "iou": 0.474,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 96.9,
+    "segmentation_score": 0.93,
+    "registration_score": 0.96,
+    "record_match_score": 1.0,
+    "temporal_score": 1.0,
+    "factors": [
+      "Detected outline holds 92% average segmentation confidence across both imagery dates.",
+      "Imagery passes align within 0.1m, a tight registration.",
+      "Matched to its sanctioned-plan record by exact khasra number.",
+      "Change persists across multiple imagery passes."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-08-13",
+    "baseline_source": "Cartosat-3, 0.28m PAN",
+    "current_date": "2026-09-08",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2011/0126",
+    "approval_date": "2011-04-15",
+    "approved_built_up_area_sqm": 198.5,
+    "approved_floors": 3,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2024/070980",
+    "assessed_area_sqm": 198.5,
+    "occupancy_type": "Commercial",
+    "annual_tax_rs": 13400,
+    "last_assessed_year": 2024
+  }
+}

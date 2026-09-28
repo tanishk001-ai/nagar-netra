@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2608-121",
+  "ward_id": "KLR-43",
+  "khasra_no": "Khasra No. 207/5",
+  "owner_name": "Rajni Malviya",
+  "address": "H.No. 33, Radha Krishna Colony, Kolar Road",
+  "flagged": true,
+  "reason": null,
+  "match_type": "exact_khasra_match",
+  "excess_area_sqm": 88.5,
+  "confidence_pct": 92.2,
+  "detected_on": "2026-08-09",
+  "status": "confirmed",
+  "resolved_on": "2026-09-16",
+  "geometry": {
+    "baseline_area_sqm": 134.9,
+    "current_area_sqm": 223.4,
+    "excess_area_sqm": 88.5,
+    "pct_growth": 65.6,
+    "changed_area_sqm": 88.5,
+    "iou": 0.604,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 92.2,
+    "segmentation_score": 0.91,
+    "registration_score": 0.8,
+    "record_match_score": 1.0,
+    "temporal_score": 1.0,
+    "factors": [
+      "Detected outline holds 90% average segmentation confidence across both imagery dates.",
+      "Imagery passes align within 0.4m, a tight registration.",
+      "Matched to its sanctioned-plan record by exact khasra number.",
+      "Change persists across multiple imagery passes."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-07-20",
+    "baseline_source": "Cartosat-3, 0.28m PAN",
+    "current_date": "2026-08-06",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2017/0765",
+    "approval_date": "2017-12-05",
+    "approved_built_up_area_sqm": 134.9,
+    "approved_floors": 2,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2023/044306",
+    "assessed_area_sqm": 134.9,
+    "occupancy_type": "Mixed Use",
+    "annual_tax_rs": 8930,
+    "last_assessed_year": 2023
+  }
+}

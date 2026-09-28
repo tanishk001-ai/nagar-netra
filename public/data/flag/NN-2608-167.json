@@ -1,0 +1,57 @@
+{
+  "plot_id": "NN-2608-167",
+  "ward_id": "BGS-38",
+  "khasra_no": "Khasra No. 62/1",
+  "owner_name": "Yogesh Sahu",
+  "address": "Plot 19, Bagsevania Main Road",
+  "flagged": true,
+  "reason": null,
+  "match_type": "exact_khasra_match",
+  "excess_area_sqm": 137.6,
+  "confidence_pct": 71.7,
+  "detected_on": "2026-08-15",
+  "status": "pending",
+  "resolved_on": null,
+  "geometry": {
+    "baseline_area_sqm": 58.2,
+    "current_area_sqm": 195.9,
+    "excess_area_sqm": 137.6,
+    "pct_growth": 236.5,
+    "changed_area_sqm": 137.6,
+    "iou": 0.297,
+    "above_noise_floor": true
+  },
+  "confidence": {
+    "confidence_pct": 71.7,
+    "segmentation_score": 0.81,
+    "registration_score": 0.58,
+    "record_match_score": 1.0,
+    "temporal_score": 0.4,
+    "factors": [
+      "Detected outline holds 80% average segmentation confidence across both imagery dates.",
+      "Registration residual of 0.8m between passes is high enough to soften confidence on this parcel.",
+      "Matched to its sanctioned-plan record by exact khasra number.",
+      "Change observed on 1 imagery pass so far; confidence would rise if it persists into the next cycle."
+    ]
+  },
+  "imagery": {
+    "baseline_date": "2025-08-06",
+    "baseline_source": "Cartosat-3, 0.28m PAN",
+    "current_date": "2026-08-14",
+    "current_source": "Cartosat-3, 0.28m PAN"
+  },
+  "sanctioned_plan": {
+    "approval_ref_no": "TNCP/BPL/2020/1042",
+    "approval_date": "2020-07-14",
+    "approved_built_up_area_sqm": 58.2,
+    "approved_floors": 1,
+    "sanctioning_authority": "Bhopal Municipal Corporation \u2014 Town & Country Planning Dept."
+  },
+  "tax_record": {
+    "property_id": "BMC/PT/2021/097970",
+    "assessed_area_sqm": 58.2,
+    "occupancy_type": "Residential",
+    "annual_tax_rs": 2410,
+    "last_assessed_year": 2021
+  }
+}
