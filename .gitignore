@@ -28,3 +28,5 @@ backend/data/workflow_state.json
 *.njsproj
 *.sln
 *.sw?
+.vercel
+.env*
