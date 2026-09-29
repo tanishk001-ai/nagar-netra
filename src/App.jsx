@@ -4,6 +4,7 @@ import Footer from './components/Footer'
 import Dashboard from './pages/Dashboard'
 import WardMap from './pages/WardMap'
 import FlagDetail from './pages/FlagDetail'
+import Description from './pages/Description'
 import About from './pages/About'
 import { FlagsProvider } from './state/FlagsContext'
 
@@ -17,6 +18,7 @@ export default function App() {
             <Route path="/" element={<Dashboard />} />
             <Route path="/map" element={<WardMap />} />
             <Route path="/flags/:id" element={<FlagDetail />} />
+            <Route path="/description" element={<Description />} />
             <Route path="/about" element={<About />} />
           </Routes>
         </div>

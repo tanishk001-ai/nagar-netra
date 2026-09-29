@@ -1,9 +1,10 @@
 import { NavLink } from 'react-router-dom'
-import { LayoutDashboard, Map, Info, ScanSearch } from 'lucide-react'
+import { LayoutDashboard, Map, Info, ScanSearch, BookOpen } from 'lucide-react'
 
 const LINKS = [
   { to: '/', label: 'Dashboard', icon: LayoutDashboard, end: true },
   { to: '/map', label: 'Ward Map', icon: Map },
+  { to: '/description', label: 'Description', icon: BookOpen },
   { to: '/about', label: 'About', icon: Info },
 ]
 

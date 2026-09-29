@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import { isStaticBuild } from '../api/client'
 
 export default function Footer() {
@@ -6,7 +7,10 @@ export default function Footer() {
   return (
     <footer className="border-t border-hairline bg-surface px-4 py-3 text-center sm:px-6">
       <p className="text-xs text-muted">
-        Demo build: serves precomputed output of the matching and scoring engine. Live API and tests are in the repository.
+        Demo build: serves precomputed output of the matching and scoring engine. Live API and tests are in the repository.{' '}
+        <Link to="/description" className="font-medium text-brand hover:underline">
+          How it works
+        </Link>
       </p>
     </footer>
   )
